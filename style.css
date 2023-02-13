@@ -96,6 +96,16 @@ h2 {
     background-color: #7289DA;
 }
 
+#Website {
+    display: inline-block;
+    margin: 5px;
+    padding: 1px;
+    width: 75%;
+    height: 100px;
+    border-radius: 50px;
+    background-color: #7d77d7;
+}
+
 #Github {
     display: inline-block;
     margin: 5px;
